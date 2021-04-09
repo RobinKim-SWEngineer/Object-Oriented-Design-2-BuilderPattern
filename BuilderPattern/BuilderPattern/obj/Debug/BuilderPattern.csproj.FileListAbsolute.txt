@@ -1,0 +1,7 @@
+C:\HG Kim\SoftwareDevelopment\GitPushes\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\HG Kim\SoftwareDevelopment\GitPushes\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\HG Kim\SoftwareDevelopment\GitPushes\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\HG Kim\SoftwareDevelopment\GitPushes\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+C:\HG Kim\SoftwareDevelopment\GitPushes\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\HG Kim\SoftwareDevelopment\GitPushes\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\HG Kim\SoftwareDevelopment\GitPushes\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
