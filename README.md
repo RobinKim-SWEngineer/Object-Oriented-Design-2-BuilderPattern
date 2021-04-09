@@ -1,5 +1,5 @@
 # Object-Oriented-Design-2-BuilderPattern
-Pattern says : "Let me handle the complex constriction part separately"
+Pattern says : "Let me handle the complex construction part separately"
 
 Builder pattern **seperates** the process of complex constriction of an object. It makes the **code readable** especially when object has lots of properties to be specified.
 
