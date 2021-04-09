@@ -3,7 +3,7 @@ Pattern says : "Let me handle the complex construction part separately"
 
 Builder pattern **seperates** the process of complex construction of an object. It makes the **code readable** especially when object has lots of properties to be specified.
 
-This pattern would not be neccessary unless the amount of properties is many. The initialization of the object is much more readable and **explicit** than using class constructor. The order of each setting does not matter.
+This pattern would not be neccessary unless the amount of properties is many. The initialization of the object is much more **explicit** than using class constructor. The order of each setting does not matter.
 
 ```
     VehicleBuilder vehicleBuilder = new VehicleBuilder();
